@@ -7,7 +7,7 @@
 <br />
 <br />
 
-A **Devops Engineer** 🚀 from Egypt.
+A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
