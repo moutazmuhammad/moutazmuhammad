@@ -1,7 +1,5 @@
 <h2 title="hehehe"> Hey 👋, I'm Moutaz Muhammad!</h2>
 
-<img src="https://komarev.com/ghpvc/?username=moutazmuhammad&color=blueviolet" align="left"> <br>
-
 <a href="https://www.linkedin.com/in/moutazmuhammad/">
   <img align="left" alt="Moutaz's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
