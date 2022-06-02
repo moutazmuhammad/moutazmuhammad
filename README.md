@@ -15,7 +15,7 @@ A **Devops Engineer** 🚀 from Egypt.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently Study in Information Technology Institute (ITI).
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
+- 🌱 I’m currently exploring Python and many Devops Tools. 
 - 🤔 My interests are automation, Devops and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Science.
 - 💼 9-Month Professional Diploma - Information Technology Institute (ITI).
