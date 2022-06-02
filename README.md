@@ -17,7 +17,7 @@ A **Devops Engineer** 🚀 from Egypt.
 - 👨🏽‍💻 I’m currently Study in Information Technology Institute (ITI).
 - 🌱 I’m currently exploring Python and many Devops Tools. 
 - 🤔 My interests are automation, Devops and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Science.
+- 💼 I have a Bachelor's degree in Science.
 - 💼 9-Month Professional Diploma - Information Technology Institute (ITI).
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [moutazmuhammad1997@gmail.com](mailto:moutazmuhammad1997@gmail.com).
