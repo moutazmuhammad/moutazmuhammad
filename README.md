@@ -7,6 +7,18 @@
 <br />
 <br />
 
+![docker](https://img.shields.io/badge/Docker-Container-blue)
+![terraform](https://img.shields.io/badge/Terraform-Infrastructure-darkblue)
+![ansible](https://img.shields.io/badge/Ansible-Configuration-lightblack)
+![jenkins](https://img.shields.io/badge/Jenkins-Automation-white)
+![aws](https://img.shields.io/badge/AWS-CloudProvider-yellow)
+![gcp](https://img.shields.io/badge/GCP-CloudProvider-white)
+![helm](https://img.shields.io/badge/Helm-Charts-blue)
+![istio](https://img.shields.io/badge/Istio-ServiceMesh-darkblue)
+![prometheus](https://img.shields.io/badge/Prometheus-Monitor-lightblack)
+![grafana](https://img.shields.io/badge/Grafana-Analytics&Monitoring-white)
+![Kuberntes](https://img.shields.io/badge/kubernetes-Orchesterator-blue)
+
 A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
