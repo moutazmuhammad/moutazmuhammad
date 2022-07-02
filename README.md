@@ -36,9 +36,9 @@ A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
 - 💼 I have a Bachelor's degree in Science.
 - 💼 9-Month Professional Diploma - Information Technology Institute (ITI).
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [moutazmuhammad1997@gmail.com](mailto:moutazmuhammad1997@gmail.com).
 - 📝 See my [Resume](https://drive.google.com/file/d/1_lwoYuM56gb9ckYvTW39rEKNg54M6twJ/view?usp=sharing) to get more info.
 
+<br />
 <br />
 <br />
 
