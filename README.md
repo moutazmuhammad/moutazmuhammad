@@ -1,8 +1,13 @@
 <h2 title="hehehe"> Hey 👋, I'm Moutaz Muhammad!</h2>
 
-<a href="https://www.linkedin.com/in/moutazmuhammad/">
-  <img align="left" alt="Moutaz's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/moutazmuhammad"  target="_blank" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.moutazmuhammad@gmail.com"  target="_blank" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 <br />
 <br />
