@@ -36,9 +36,3 @@ A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
 - 🤔 My interests lie in automation, DevOps, and developing innovative applications that are both useful and cool.
 - 💬 I am always happy to answer questions and share my knowledge and experiences, so feel free to ask me anything!
 - 📝 See my [Resume](https://drive.google.com/file/d/1_lwoYuM56gb9ckYvTW39rEKNg54M6twJ/view?usp=sharing) to get more info.
-
-<br />
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutazmuhammad&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/moutazmuhammad/github-readme-stats)
