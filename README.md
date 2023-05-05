@@ -29,7 +29,7 @@ A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
-- 💼 I am currently working as a DevOps engineer for _VOIS - Vodafone Intelligent Solutions, where I am responsible for implementing and maintaining the company's DevOps practices, streamlining software development and delivery, and ensuring efficient and scalable deployment of applications.
+- 💼 I am currently working as a DevOps engineer for _VOIS (Vodafone Intelligent Solutions), where I am responsible for implementing and maintaining the company's DevOps practices, streamlining software development and delivery, and ensuring efficient and scalable deployment of applications.
 - 💼 I hold a Bachelor's degree in Science, which has helped me to acquire a solid foundation in technical knowledge and problem-solving skills.
 - 💼 Additionally, I completed a 9-month Professional Diploma program at The  Information Technology Institute (ITI), where I learned practical skills and gained hands-on experience in the IT industry.
 - 🌱 Currently, I am exploring Python and many DevOps tools to enhance my expertise in these areas.
