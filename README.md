@@ -29,13 +29,12 @@ A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
-
-- 👨🏽‍💻 I’m currently Study in Information Technology Institute (ITI).
-- 🌱 I’m currently exploring Python and many Devops Tools. 
-- 🤔 My interests are automation, Devops and developing some useful and cool stuff xD
-- 💼 I have a Bachelor's degree in Science.
-- 💼 9-Month Professional Diploma - Information Technology Institute (ITI).
-- 💬 Ask me about anything, I love to answer!
+- 💼 I am currently working as a DevOps engineer for _VOIS, where I am responsible for implementing and maintaining the company's DevOps practices, streamlining software development and delivery, and ensuring efficient and scalable deployment of applications.
+- 💼 I hold a Bachelor's degree in Science, which has helped me to acquire a solid foundation in technical knowledge and problem-solving skills.
+- 💼 Additionally, I completed a 9-month Professional Diploma program at The  Information Technology Institute (ITI), where I learned practical skills and gained hands-on experience in the IT industry.
+- 🌱 Currently, I am exploring Python and many DevOps tools to enhance my expertise in these areas.
+- 🤔 My interests lie in automation, DevOps, and developing innovative applications that are both useful and cool.
+- 💬 I am always happy to answer questions and share my knowledge and experiences, so feel free to ask me anything!
 - 📝 See my [Resume](https://drive.google.com/file/d/1_lwoYuM56gb9ckYvTW39rEKNg54M6twJ/view?usp=sharing) to get more info.
 
 <br />
