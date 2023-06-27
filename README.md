@@ -35,4 +35,4 @@ A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
 - 🌱 Currently, I am exploring Python and many DevOps tools to enhance my expertise in these areas.
 - 🤔 My interests lie in automation, DevOps, and developing innovative applications that are both useful and cool.
 - 💬 I am always happy to answer questions and share my knowledge and experiences, so feel free to ask me anything!
-- 📝 See my [Resume](https://drive.google.com/file/d/1_lwoYuM56gb9ckYvTW39rEKNg54M6twJ/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1kjKj6Lg79bi9LnYGvk4Y4se0ozOMKqPs/view) to get more info.
