@@ -12,7 +12,7 @@
 <br />
 <br />
 
-A **Devops Engineer and Python-Odoo Developer** 🚀 from Egypt.
+A **Devops Engineer** 🚀 from Egypt.
 
 ![docker](https://img.shields.io/badge/Docker-Container-blue)
 ![terraform](https://img.shields.io/badge/Terraform-Infrastructure-darkblue)
