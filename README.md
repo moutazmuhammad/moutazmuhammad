@@ -35,4 +35,4 @@ A **Devops Engineer** 🚀 from Egypt.
 - 🌱 Currently, I am exploring Python and many DevOps tools to enhance my expertise in these areas.
 - 🤔 My interests lie in automation, DevOps, and developing innovative applications that are both useful and cool.
 - 💬 I am always happy to answer questions and share my knowledge and experiences, so feel free to ask me anything!
-- 📝 See my [Resume](https://drive.google.com/file/d/13yB_tKe9N-C3Yge1wNE80eg_7U0LOANN/view?usp=drive_link) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1cLRhoU_nc8pu0KmLMLLXXEL4VYvs3ybQ/view?usp=drive_link) to get more info.
