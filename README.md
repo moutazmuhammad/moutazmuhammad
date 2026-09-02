@@ -39,7 +39,7 @@
 * 🐍 I enjoy automation with **Python and Bash**, and building reliable infrastructure that reduces manual work.
 * 🌱 Always learning and exploring better approaches to **Platform Engineering, Kubernetes, Cloud, DevOps, and Infrastructure Automation**.
 * 💬 Feel free to reach out if you'd like to discuss Kubernetes, DevOps, Cloud Infrastructure, or Platform Engineering.
-* 📝 See my [Resume](https://drive.google.com/file/d/1cLRhoU_nc8pu0KmLMLLXXEL4VYvs3ybQ/view?usp=drive_link) for more details.
+* 📝 See my [Resume](https://drive.google.com/file/d/1EhZn8ATShV1P7O51YevzGCDzhKlzDc9A/view?usp=sharing) for more details.
 
 **Certifications**
 
