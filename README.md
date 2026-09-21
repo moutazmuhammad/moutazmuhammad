@@ -1,4 +1,4 @@
-<h2 title="hehehe">Hey 👋, I'm Moutaz Muhammad!</h2>
+<h2 title="hehehe">Hey 👋, I'm Moutaz Abdo!</h2>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/moutazmuhammad" target="_blank" alt="LinkedIn">
